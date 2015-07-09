@@ -1,5 +1,7 @@
 # web-inject-rev
 
+* gulpfile.babel.js
+
 ##Todo
-  * css预处理
-  * 静态服务器，及代理
+  * <del>css预处理
+  * <del>静态服务器</del> 代理
